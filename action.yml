@@ -5,6 +5,8 @@ inputs:
     description: 'Who to greet'
     required: true
     default: 'World'
+  who-to-greet1:  # id of input
+    description: 'Who to greet1'
 outputs:
   random-number:
     description: "Random number"
